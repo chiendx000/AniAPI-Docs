@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaniapi_docs=self.webpackChunkaniapi_docs||[]).push([[1813],{6989:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"aniapi","name":"aniapi","count":4,"permalink":"/blog/tags/aniapi"}')}}]);

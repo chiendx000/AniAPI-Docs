@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaniapi_docs=self.webpackChunkaniapi_docs||[]).push([[2126],{2463:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"net","name":".net","count":1,"permalink":"/blog/tags/net"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaniapi_docs=self.webpackChunkaniapi_docs||[]).push([[9059],{927:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"coming-soon","name":"coming soon","count":1,"permalink":"/blog/tags/coming-soon"}')}}]);

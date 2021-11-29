@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaniapi_docs=self.webpackChunkaniapi_docs||[]).push([[3313],{7169:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"anime","name":"anime","count":2,"permalink":"/blog/tags/anime"}')}}]);

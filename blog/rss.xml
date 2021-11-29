@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>AniAPI Blog</title>
+        <link>https://aniapi.com/blog</link>
+        <description>AniAPI Blog</description>
+        <lastBuildDate>Wed, 25 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vacation update]]></title>
+            <link>https://aniapi.com/blog/vacation_update</link>
+            <guid>vacation_update</guid>
+            <pubDate>Wed, 25 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unfortunately vacations have ended.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The first wrapper]]></title>
+            <link>https://aniapi.com/blog/first_wrapper</link>
+            <guid>first_wrapper</guid>
+            <pubDate>Fri, 23 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi all,]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Here we go!]]></title>
+            <link>https://aniapi.com/blog/here_we_go</link>
+            <guid>here_we_go</guid>
+            <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The time has come!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Stay tuned!]]></title>
+            <link>https://aniapi.com/blog/stay_tuned</link>
+            <guid>stay_tuned</guid>
+            <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi all!]]></description>
+        </item>
+    </channel>
+</rss>

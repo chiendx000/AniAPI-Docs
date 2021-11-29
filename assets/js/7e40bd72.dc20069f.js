@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaniapi_docs=self.webpackChunkaniapi_docs||[]).push([[3941],{2855:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"1","name":"1","count":1,"permalink":"/blog/tags/1"}')}}]);

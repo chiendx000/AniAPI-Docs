@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaniapi_docs=self.webpackChunkaniapi_docs||[]).push([[5077],{4958:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"c","name":"c#","count":1,"permalink":"/blog/tags/c"}')}}]);

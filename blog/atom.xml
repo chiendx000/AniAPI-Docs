@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aniapi.com/blog</id>
+    <title>AniAPI Blog</title>
+    <updated>2021-08-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://aniapi.com/blog"/>
+    <subtitle>AniAPI Blog</subtitle>
+    <icon>https://aniapi.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Vacation update]]></title>
+        <id>vacation_update</id>
+        <link href="https://aniapi.com/blog/vacation_update"/>
+        <updated>2021-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unfortunately vacations have ended.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first wrapper]]></title>
+        <id>first_wrapper</id>
+        <link href="https://aniapi.com/blog/first_wrapper"/>
+        <updated>2021-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi all,]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here we go!]]></title>
+        <id>here_we_go</id>
+        <link href="https://aniapi.com/blog/here_we_go"/>
+        <updated>2021-07-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The time has come!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay tuned!]]></title>
+        <id>stay_tuned</id>
+        <link href="https://aniapi.com/blog/stay_tuned"/>
+        <updated>2021-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi all!]]></summary>
+    </entry>
+</feed>
